@@ -1,0 +1,53 @@
+{
+    "events": {
+        "monday": {
+            "name": "Example Event",
+            "img": "../images/events/monday/Example.png",
+            "desc": "Example event is an example just to show how events work.",
+            "priority": 1
+        },
+        "tuesday": {
+            "name": "",
+            "img": "",
+            "desc": "",
+            "priority": 1
+        },
+        "wednesday": {
+            "name": "",
+            "img": "",
+            "desc": "",
+            "priority": 1
+        },
+        "thursday": {
+            "name": "",
+            "img": "",
+            "desc": "",
+            "priority": 1
+        },
+        "friday": {
+            "name": "",
+            "img": "",
+            "desc": "",
+            "priority": 1
+        },
+        "saturday": {
+            "name": "",
+            "img": "",
+            "desc": "",
+            "priority": 1
+        },
+        "sunday": {
+            "name": "",
+            "img": "",
+            "desc": "",
+            "priority": 1
+        },
+        "weekend": {
+            "name": "",
+            "img": "",
+            "desc": "",
+            "priority": 1
+        }
+    },
+    "currentday": "friday"
+}
